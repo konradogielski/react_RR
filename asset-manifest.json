@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_RR/static/css/main.e4799140.chunk.css",
+    "main.js": "/react_RR/static/js/main.fce3e90c.chunk.js",
+    "main.js.map": "/react_RR/static/js/main.fce3e90c.chunk.js.map",
+    "runtime-main.js": "/react_RR/static/js/runtime-main.afaedea5.js",
+    "runtime-main.js.map": "/react_RR/static/js/runtime-main.afaedea5.js.map",
+    "static/js/2.f0ca5287.chunk.js": "/react_RR/static/js/2.f0ca5287.chunk.js",
+    "static/js/2.f0ca5287.chunk.js.map": "/react_RR/static/js/2.f0ca5287.chunk.js.map",
+    "index.html": "/react_RR/index.html",
+    "static/css/main.e4799140.chunk.css.map": "/react_RR/static/css/main.e4799140.chunk.css.map",
+    "static/js/2.f0ca5287.chunk.js.LICENSE.txt": "/react_RR/static/js/2.f0ca5287.chunk.js.LICENSE.txt",
+    "static/media/viessmann_1.d7aa37bb.png": "/react_RR/static/media/viessmann_1.d7aa37bb.png",
+    "static/media/viessmann_2.04cf9cac.png": "/react_RR/static/media/viessmann_2.04cf9cac.png",
+    "static/media/viessmann_3.7eeebc86.png": "/react_RR/static/media/viessmann_3.7eeebc86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afaedea5.js",
+    "static/js/2.f0ca5287.chunk.js",
+    "static/css/main.e4799140.chunk.css",
+    "static/js/main.fce3e90c.chunk.js"
+  ]
+}
